@@ -6,6 +6,8 @@ This guide aims to provide an overview of the contribution workflow to help us m
 
 ## About the Project
 
+some change
+
 Scaffold-ETH 2 is a minimal and forkable repo providing builders with a starter kit to build decentralized applications on Ethereum.
 
 Read the [README](README.md) to get an overview of the project.
